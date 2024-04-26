@@ -4,8 +4,7 @@ Hi 👋 My name is Kai Da Pie
 Computer nerd 🤓 // Programmer (Python)
 ---------------------------------------
 
-* 🚀  I'm currently working on [K-OS 3](http://youtube.com/@_KDP)
-* 🧠  I'm learning Python, might learn something else later
+* 🚀  I'm currently working on being useless :p
 * ⚡  Youtuber (200 and something subscribers)
 
 <a href="https://www.x.com/KDPMain" target="_blank" rel="noreferrer"><img
